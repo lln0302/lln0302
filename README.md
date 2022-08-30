@@ -6,7 +6,7 @@
 I'm interested in git-flow, agile, OOP, TDD
 ## 📱Contact
 <p>
-<a href="mailto:legagain@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lln0302@gmail.com"/></a>
+<a href="mailto:legagain@gmail.com"><img src="https://img.shields.io/badge/navermail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lln0302@gmail.com"/></a>
   
 </p>
 ## 📚Stack
